@@ -1,4 +1,4 @@
-# Normative Modeling of Fetal Brain Development
+# Normative Modeling of Fetal Brain Development (Brain Charts)
 
 This repository demonstrates **normative modeling and brain growth chart construction**
 using a **spatio-temporal fetal MRI atlas** of spina bifida aperta.
