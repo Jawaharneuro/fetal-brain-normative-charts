@@ -1,0 +1,9 @@
+
+## requirements
+
+numpy
+pandas
+matplotlib
+nibabel
+scikit-learn
+tqdm
